@@ -1,0 +1,11 @@
+public class InvalidMoveException extends Exception {
+
+    public InvalidMoveException(String msg){
+       super(msg);
+    }
+
+    public InvalidMoveException(){
+       super("Illegal move: Must place in empty square");
+    }
+
+}

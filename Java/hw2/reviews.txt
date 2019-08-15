@@ -1,0 +1,4000 @@
+Jinyang
+Waffle House
+restaurant
+3.9
+Jean-Claude
+Quality Inn
+hotel
+3.6
+Deena
+Braveheart
+movie
+1.0
+Kyunghyun
+La Quinta
+hotel
+5.0
+Davi
+The King's Speech
+movie
+5.0
+Deena
+Jane's
+restaurant
+2.0
+Richard
+Babbo
+restaurant
+3.0
+Joanna
+Bucadi Beppo
+restaurant
+1.0
+Michael
+Shape of Water
+movie
+2.3
+Marsha
+Ramada
+hotel
+5.0
+Jean-Claude
+Waffle House
+restaurant
+4.2
+Anasse
+Holiday Inn
+hotel
+5.0
+Jinyang
+La Quinta
+hotel
+5.0
+Ernest
+Five Guys
+restaurant
+1.9
+Anasse
+IHOP
+restaurant
+5.0
+Marsha
+White Oak Tavern
+restaurant
+1.2
+Joanna
+Arturos
+restaurant
+2.6
+Ernest
+Shape of Water
+movie
+4.7
+Davi
+Babbo
+restaurant
+1.6
+Kyunghyun
+Hilton
+hotel
+1.8
+Ernest
+Babbo
+restaurant
+5.0
+Ernest
+Ramada
+hotel
+1.7
+Davi
+Waffle House
+restaurant
+2.5
+Richard
+IHOP
+restaurant
+1.5
+Ernest
+Hyatt
+hotel
+1.9
+Kyunghyun
+Five Guys
+restaurant
+4.0
+Jean-Claude
+English Patient
+movie
+4.7
+Jean-Claude
+White Oak Tavern
+restaurant
+1.0
+Yevgeniy
+Travelodge
+hotel
+3.2
+Yevgeniy
+Chipotle
+restaurant
+4.5
+Kyunghyun
+Blue Hill
+restaurant
+4.6
+Richard
+Braveheart
+movie
+1.5
+Ernest
+The King's Speech
+movie
+5.0
+Joanna
+Waffle House
+restaurant
+3.2
+Kyunghyun
+Ramada
+hotel
+5.0
+Jean-Claude
+Motel 6
+hotel
+3.9
+Jean-Claude
+Hummus Place
+restaurant
+2.2
+Ernest
+Jane's
+restaurant
+3.1
+Jinyang
+IHOP
+restaurant
+4.0
+Ernest
+Waffle House
+restaurant
+4.6
+Yevgeniy
+White Oak Tavern
+restaurant
+2.1
+Patrick
+Chipotle
+restaurant
+1.0
+Anasse
+Hampton Inn
+hotel
+4.4
+Jinyang
+Hilton
+hotel
+3.4
+Jean-Claude
+English Patient
+movie
+3.9
+Joanna
+Argo
+movie
+5.0
+Jean-Claude
+Hilton
+hotel
+2.2
+Richard
+Hyatt
+hotel
+3.1
+Marsha
+Blue Hill
+restaurant
+1.9
+Joe
+Hilton
+hotel
+5.0
+Ernest
+Marriott
+hotel
+1.5
+Ernest
+Five Guys
+restaurant
+5.0
+Ernest
+Titanic
+movie
+4.5
+Joanna
+Best Western
+hotel
+5.0
+Yevgeniy
+Arturos
+restaurant
+1.0
+Jean-Claude
+Holiday Inn
+hotel
+5.0
+Patrick
+Motel 6
+hotel
+3.5
+Ernest
+Chipotle
+restaurant
+3.9
+Jean-Claude
+English Patient
+movie
+1.0
+Anasse
+Travelodge
+hotel
+2.0
+Richard
+White Oak Tavern
+restaurant
+2.4
+Joanna
+Arturos
+restaurant
+5.0
+Richard
+Babbo
+restaurant
+4.3
+Ernest
+IHOP
+restaurant
+3.9
+Marsha
+English Patient
+movie
+1.0
+Ernest
+Holiday Inn
+hotel
+3.2
+Kyunghyun
+Braveheart
+movie
+3.4
+Ernest
+Blue Hill
+restaurant
+1.9
+Joe
+Five Guys
+restaurant
+1.9
+Jinyang
+White Oak Tavern
+restaurant
+4.9
+Anasse
+English Patient
+movie
+5.0
+Joanna
+Clarion
+hotel
+3.6
+Joanna
+Shape of Water
+movie
+1.3
+Jean-Claude
+Waffle House
+restaurant
+5.0
+Jean-Claude
+Argo
+movie
+1.0
+Davi
+Moonlight
+movie
+2.4
+Patrick
+Motel 6
+hotel
+1.9
+Ernest
+Shape of Water
+movie
+1.0
+Patrick
+Babbo
+restaurant
+2.7
+Deena
+Motel 6
+hotel
+4.4
+Joe
+Quality Inn
+hotel
+3.5
+Kyunghyun
+The King's Speech
+movie
+3.7
+Patrick
+Spotlight
+movie
+5.0
+Patrick
+The King's Speech
+movie
+2.6
+Joe
+Shape of Water
+movie
+4.9
+Michael
+Travelodge
+hotel
+5.0
+Marsha
+Waffle House
+restaurant
+2.7
+Jean-Claude
+Marriott
+hotel
+1.0
+Jean-Claude
+Ramada
+hotel
+4.4
+Ernest
+White Oak Tavern
+restaurant
+3.7
+Richard
+Titanic
+movie
+4.5
+Kyunghyun
+Clarion
+hotel
+1.0
+Marsha
+Hampton Inn
+hotel
+4.5
+Michael
+Arturos
+restaurant
+2.1
+Joanna
+English Patient
+movie
+1.1
+Michael
+Waffle House
+restaurant
+1.0
+Jinyang
+Titanic
+movie
+1.0
+Anasse
+Birdman
+movie
+1.0
+Richard
+La Quinta
+hotel
+2.7
+Michael
+Five Guys
+restaurant
+2.2
+Anasse
+Blue Hill
+restaurant
+1.0
+Kyunghyun
+Hilton
+hotel
+3.1
+Marsha
+Hilton
+hotel
+1.0
+Ernest
+Bucadi Beppo
+restaurant
+3.7
+Anasse
+Marriott
+hotel
+2.3
+Marsha
+Hilton
+hotel
+4.6
+Davi
+Moonlight
+movie
+2.1
+Joe
+Moonlight
+movie
+1.8
+Richard
+English Patient
+movie
+1.7
+Joe
+White Oak Tavern
+restaurant
+1.0
+Joanna
+Waffle House
+restaurant
+1.0
+Jinyang
+Hilton
+hotel
+5.0
+Anasse
+Hampton Inn
+hotel
+3.6
+Joe
+Moonlight
+movie
+1.0
+Kyunghyun
+White Oak Tavern
+restaurant
+3.7
+Patrick
+Dojo
+restaurant
+3.2
+Jinyang
+Spotlight
+movie
+1.7
+Davi
+Argo
+movie
+5.0
+Richard
+Travelodge
+hotel
+1.0
+Yevgeniy
+Braveheart
+movie
+4.0
+Marsha
+Motel 6
+hotel
+5.0
+Richard
+Moonlight
+movie
+3.3
+Jinyang
+Meatball Shop
+restaurant
+5.0
+Davi
+Spotlight
+movie
+1.0
+Yevgeniy
+Ramada
+hotel
+3.1
+Ernest
+Hilton
+hotel
+3.5
+Joanna
+Meatball Shop
+restaurant
+2.3
+Ernest
+Bucadi Beppo
+restaurant
+5.0
+Richard
+Birdman
+movie
+1.2
+Joanna
+Blue Hill
+restaurant
+5.0
+Ernest
+Hummus Place
+restaurant
+2.7
+Jinyang
+Titanic
+movie
+5.0
+Ernest
+Braveheart
+movie
+2.9
+Ernest
+Quality Inn
+hotel
+2.7
+Richard
+Braveheart
+movie
+3.6
+Marsha
+Jane's
+restaurant
+1.0
+Anasse
+Jane's
+restaurant
+1.5
+Patrick
+Hyatt
+hotel
+5.0
+Ernest
+Hilton
+hotel
+3.7
+Ernest
+La Quinta
+hotel
+2.0
+Patrick
+Argo
+movie
+1.0
+Kyunghyun
+Best Western
+hotel
+1.1
+Richard
+White Oak Tavern
+restaurant
+1.0
+Michael
+Vegan Kitchen
+restaurant
+3.3
+Michael
+Chipotle
+restaurant
+4.0
+Yevgeniy
+Shape of Water
+movie
+1.0
+Patrick
+Hilton
+hotel
+2.7
+Deena
+Clarion
+hotel
+4.3
+Ernest
+Jane's
+restaurant
+1.0
+Anasse
+Hummus Place
+restaurant
+1.3
+Jinyang
+Vegan Kitchen
+restaurant
+3.2
+Michael
+Meatball Shop
+restaurant
+5.0
+Deena
+Sheraton
+hotel
+1.2
+Marsha
+Moonlight
+movie
+1.0
+Jean-Claude
+Hampton Inn
+hotel
+3.7
+Yevgeniy
+Spotlight
+movie
+3.7
+Ernest
+Five Guys
+restaurant
+1.0
+Anasse
+Moonlight
+movie
+5.0
+Patrick
+Travelodge
+hotel
+2.0
+Ernest
+Sheraton
+hotel
+1.7
+Michael
+Shape of Water
+movie
+2.8
+Joanna
+Argo
+movie
+1.1
+Richard
+Jane's
+restaurant
+5.0
+Davi
+Quality Inn
+hotel
+4.7
+Patrick
+Sheraton
+hotel
+4.9
+Deena
+White Oak Tavern
+restaurant
+4.9
+Anasse
+Shape of Water
+movie
+1.8
+Jean-Claude
+Blue Hill
+restaurant
+3.9
+Davi
+Marriott
+hotel
+2.5
+Deena
+Moonlight
+movie
+5.0
+Ernest
+Holiday Inn
+hotel
+5.0
+Deena
+Titanic
+movie
+3.5
+Joanna
+Bucadi Beppo
+restaurant
+1.4
+Patrick
+Ramada
+hotel
+4.4
+Joe
+Marriott
+hotel
+5.0
+Davi
+Blue Hill
+restaurant
+1.2
+Yevgeniy
+Blue Hill
+restaurant
+2.7
+Yevgeniy
+Hummus Place
+restaurant
+3.6
+Jean-Claude
+Travelodge
+hotel
+5.0
+Anasse
+Jane's
+restaurant
+5.0
+Davi
+English Patient
+movie
+4.1
+Jinyang
+Sheraton
+hotel
+1.0
+Davi
+White Oak Tavern
+restaurant
+2.1
+Deena
+White Oak Tavern
+restaurant
+5.0
+Joanna
+Hummus Place
+restaurant
+1.9
+Ernest
+Quality Inn
+hotel
+1.0
+Jinyang
+Hyatt
+hotel
+4.4
+Ernest
+Argo
+movie
+2.5
+Michael
+Hummus Place
+restaurant
+4.9
+Patrick
+Bucadi Beppo
+restaurant
+1.0
+Davi
+Babbo
+restaurant
+1.0
+Ernest
+Birdman
+movie
+4.5
+Michael
+Braveheart
+movie
+3.7
+Richard
+Dojo
+restaurant
+1.8
+Joanna
+La Quinta
+hotel
+1.8
+Michael
+Titanic
+movie
+1.0
+Davi
+Sheraton
+hotel
+2.9
+Ernest
+White Oak Tavern
+restaurant
+5.0
+Marsha
+The King's Speech
+movie
+1.0
+Ernest
+Hampton Inn
+hotel
+3.8
+Ernest
+Hampton Inn
+hotel
+1.0
+Patrick
+Arturos
+restaurant
+1.4
+Patrick
+Argo
+movie
+4.2
+Jean-Claude
+Hyatt
+hotel
+5.0
+Anasse
+Blue Hill
+restaurant
+4.6
+Deena
+Chipotle
+restaurant
+5.0
+Deena
+Bucadi Beppo
+restaurant
+3.8
+Jinyang
+Holiday Inn
+hotel
+2.0
+Richard
+Shape of Water
+movie
+1.2
+Marsha
+Babbo
+restaurant
+2.8
+Jinyang
+Bucadi Beppo
+restaurant
+5.0
+Kyunghyun
+Waffle House
+restaurant
+2.4
+Davi
+Braveheart
+movie
+3.7
+Deena
+Motel 6
+hotel
+1.0
+Joe
+Birdman
+movie
+5.0
+Jean-Claude
+Best Western
+hotel
+1.0
+Jinyang
+Babbo
+restaurant
+2.9
+Davi
+Braveheart
+movie
+1.0
+Joanna
+Spotlight
+movie
+4.8
+Marsha
+Sheraton
+hotel
+4.0
+Ernest
+White Oak Tavern
+restaurant
+5.0
+Patrick
+Braveheart
+movie
+1.0
+Kyunghyun
+Blue Hill
+restaurant
+1.3
+Joe
+The King's Speech
+movie
+5.0
+Ernest
+Argo
+movie
+1.0
+Anasse
+Five Guys
+restaurant
+4.2
+Patrick
+Argo
+movie
+5.0
+Patrick
+Quality Inn
+hotel
+5.0
+Kyunghyun
+Holiday Inn
+hotel
+3.4
+Joe
+Blue Hill
+restaurant
+1.0
+Deena
+La Quinta
+hotel
+4.9
+Deena
+Moonlight
+movie
+1.7
+Marsha
+Shape of Water
+movie
+1.0
+Yevgeniy
+Vegan Kitchen
+restaurant
+3.9
+Deena
+English Patient
+movie
+3.1
+Ernest
+Birdman
+movie
+1.0
+Yevgeniy
+Moonlight
+movie
+1.0
+Anasse
+Vegan Kitchen
+restaurant
+4.8
+Joanna
+Marriott
+hotel
+3.1
+Marsha
+Vegan Kitchen
+restaurant
+1.0
+Joe
+Hampton Inn
+hotel
+1.0
+Joe
+Quality Inn
+hotel
+3.4
+Jinyang
+Quality Inn
+hotel
+1.0
+Anasse
+Spotlight
+movie
+2.1
+Deena
+Jane's
+restaurant
+3.0
+Yevgeniy
+Birdman
+movie
+2.6
+Anasse
+Meatball Shop
+restaurant
+1.0
+Michael
+Hyatt
+hotel
+5.0
+Ernest
+Sheraton
+hotel
+5.0
+Davi
+Bucadi Beppo
+restaurant
+2.5
+Marsha
+Bucadi Beppo
+restaurant
+3.4
+Marsha
+Moonlight
+movie
+1.0
+Anasse
+Argo
+movie
+5.0
+Ernest
+Babbo
+restaurant
+3.8
+Joe
+Braveheart
+movie
+4.7
+Yevgeniy
+Babbo
+restaurant
+1.0
+Joe
+Arturos
+restaurant
+1.0
+Deena
+Marriott
+hotel
+1.2
+Michael
+Spotlight
+movie
+3.4
+Ernest
+Dojo
+restaurant
+2.8
+Richard
+White Oak Tavern
+restaurant
+1.0
+Ernest
+Vegan Kitchen
+restaurant
+5.0
+Davi
+Hyatt
+hotel
+1.0
+Kyunghyun
+Titanic
+movie
+2.0
+Ernest
+Spotlight
+movie
+2.3
+Ernest
+Best Western
+hotel
+3.7
+Marsha
+Hampton Inn
+hotel
+5.0
+Richard
+Hampton Inn
+hotel
+3.4
+Ernest
+Moonlight
+movie
+1.9
+Anasse
+IHOP
+restaurant
+2.2
+Ernest
+Best Western
+hotel
+5.0
+Anasse
+Motel 6
+hotel
+1.3
+Patrick
+Ramada
+hotel
+1.6
+Ernest
+Braveheart
+movie
+2.0
+Yevgeniy
+Titanic
+movie
+3.1
+Marsha
+Hilton
+hotel
+4.9
+Davi
+Travelodge
+hotel
+5.0
+Ernest
+Spotlight
+movie
+5.0
+Joe
+Quality Inn
+hotel
+2.4
+Joe
+Vegan Kitchen
+restaurant
+3.4
+Yevgeniy
+The King's Speech
+movie
+5.0
+Joanna
+Five Guys
+restaurant
+1.0
+Yevgeniy
+Five Guys
+restaurant
+1.0
+Joanna
+Jane's
+restaurant
+3.8
+Marsha
+Hummus Place
+restaurant
+1.1
+Marsha
+Holiday Inn
+hotel
+3.6
+Patrick
+Babbo
+restaurant
+5.0
+Joe
+Motel 6
+hotel
+4.1
+Patrick
+Chipotle
+restaurant
+4.0
+Ernest
+Holiday Inn
+hotel
+3.2
+Jean-Claude
+Best Western
+hotel
+5.0
+Ernest
+The King's Speech
+movie
+4.5
+Yevgeniy
+Bucadi Beppo
+restaurant
+2.3
+Anasse
+Best Western
+hotel
+1.6
+Jinyang
+Hyatt
+hotel
+1.3
+Deena
+Holiday Inn
+hotel
+4.6
+Anasse
+Motel 6
+hotel
+3.3
+Kyunghyun
+Ramada
+hotel
+4.4
+Marsha
+Spotlight
+movie
+3.0
+Marsha
+English Patient
+movie
+3.8
+Joanna
+Five Guys
+restaurant
+5.0
+Deena
+Clarion
+hotel
+1.0
+Richard
+Titanic
+movie
+5.0
+Jinyang
+Motel 6
+hotel
+2.8
+Yevgeniy
+La Quinta
+hotel
+3.4
+Joanna
+English Patient
+movie
+3.6
+Jinyang
+Meatball Shop
+restaurant
+1.4
+Deena
+Five Guys
+restaurant
+2.7
+Jinyang
+Meatball Shop
+restaurant
+4.8
+Joe
+Meatball Shop
+restaurant
+3.4
+Kyunghyun
+Hilton
+hotel
+1.5
+Joanna
+Travelodge
+hotel
+2.7
+Joanna
+IHOP
+restaurant
+3.4
+Joe
+Travelodge
+hotel
+5.0
+Davi
+Blue Hill
+restaurant
+1.4
+Davi
+Waffle House
+restaurant
+1.9
+Kyunghyun
+IHOP
+restaurant
+5.0
+Deena
+Travelodge
+hotel
+1.3
+Jean-Claude
+Holiday Inn
+hotel
+4.2
+Ernest
+Five Guys
+restaurant
+2.5
+Davi
+Waffle House
+restaurant
+5.0
+Ernest
+Clarion
+hotel
+1.7
+Joe
+Best Western
+hotel
+4.3
+Marsha
+Marriott
+hotel
+1.0
+Marsha
+Braveheart
+movie
+1.0
+Kyunghyun
+Hyatt
+hotel
+2.9
+Marsha
+Braveheart
+movie
+2.3
+Kyunghyun
+White Oak Tavern
+restaurant
+4.4
+Yevgeniy
+Birdman
+movie
+3.3
+Ernest
+Bucadi Beppo
+restaurant
+3.3
+Joanna
+IHOP
+restaurant
+1.0
+Jinyang
+Blue Hill
+restaurant
+1.0
+Kyunghyun
+Babbo
+restaurant
+5.0
+Ernest
+Holiday Inn
+hotel
+1.3
+Michael
+Vegan Kitchen
+restaurant
+1.6
+Ernest
+The King's Speech
+movie
+4.7
+Joanna
+Spotlight
+movie
+2.1
+Davi
+Holiday Inn
+hotel
+1.9
+Deena
+Birdman
+movie
+1.0
+Yevgeniy
+Hyatt
+hotel
+1.5
+Patrick
+Dojo
+restaurant
+4.4
+Michael
+Waffle House
+restaurant
+5.0
+Anasse
+Meatball Shop
+restaurant
+5.0
+Anasse
+Sheraton
+hotel
+5.0
+Jinyang
+Babbo
+restaurant
+3.0
+Richard
+Clarion
+hotel
+5.0
+Yevgeniy
+Motel 6
+hotel
+4.0
+Joanna
+Vegan Kitchen
+restaurant
+5.0
+Richard
+Quality Inn
+hotel
+3.8
+Michael
+Five Guys
+restaurant
+1.0
+Patrick
+Chipotle
+restaurant
+1.0
+Davi
+Meatball Shop
+restaurant
+5.0
+Joanna
+Birdman
+movie
+5.0
+Richard
+Argo
+movie
+3.3
+Jinyang
+Hampton Inn
+hotel
+3.9
+Joanna
+Marriott
+hotel
+5.0
+Marsha
+IHOP
+restaurant
+3.6
+Kyunghyun
+Travelodge
+hotel
+1.7
+Joanna
+Babbo
+restaurant
+1.3
+Jinyang
+Bucadi Beppo
+restaurant
+1.1
+Joanna
+Bucadi Beppo
+restaurant
+2.0
+Jean-Claude
+White Oak Tavern
+restaurant
+2.4
+Ernest
+IHOP
+restaurant
+1.0
+Joanna
+Argo
+movie
+4.6
+Michael
+Motel 6
+hotel
+1.3
+Davi
+English Patient
+movie
+5.0
+Kyunghyun
+The King's Speech
+movie
+1.0
+Ernest
+Clarion
+hotel
+5.0
+Joanna
+Marriott
+hotel
+1.0
+Anasse
+Argo
+movie
+2.7
+Davi
+Best Western
+hotel
+5.0
+Richard
+Chipotle
+restaurant
+2.6
+Joanna
+Babbo
+restaurant
+1.1
+Davi
+Marriott
+hotel
+5.0
+Patrick
+Moonlight
+movie
+4.9
+Kyunghyun
+Quality Inn
+hotel
+5.0
+Joanna
+Arturos
+restaurant
+3.1
+Yevgeniy
+Bucadi Beppo
+restaurant
+2.8
+Marsha
+Blue Hill
+restaurant
+2.6
+Davi
+Braveheart
+movie
+5.0
+Davi
+Meatball Shop
+restaurant
+1.0
+Richard
+Travelodge
+hotel
+5.0
+Patrick
+Waffle House
+restaurant
+4.0
+Patrick
+Shape of Water
+movie
+1.6
+Ernest
+The King's Speech
+movie
+1.0
+Jinyang
+The King's Speech
+movie
+4.8
+Deena
+Hampton Inn
+hotel
+1.4
+Michael
+IHOP
+restaurant
+1.4
+Richard
+Braveheart
+movie
+3.6
+Jinyang
+Vegan Kitchen
+restaurant
+1.2
+Ernest
+IHOP
+restaurant
+5.0
+Richard
+Shape of Water
+movie
+4.3
+Marsha
+Hummus Place
+restaurant
+1.0
+Ernest
+Five Guys
+restaurant
+1.0
+Jean-Claude
+Jane's
+restaurant
+5.0
+Ernest
+Braveheart
+movie
+4.0
+Yevgeniy
+Hyatt
+hotel
+3.5
+Marsha
+Dojo
+restaurant
+4.1
+Jean-Claude
+Motel 6
+hotel
+3.9
+Jinyang
+Ramada
+hotel
+1.0
+Anasse
+Dojo
+restaurant
+2.7
+Richard
+Hilton
+hotel
+3.9
+Yevgeniy
+Hilton
+hotel
+2.7
+Jean-Claude
+Dojo
+restaurant
+1.0
+Richard
+Hyatt
+hotel
+4.9
+Deena
+Hilton
+hotel
+5.0
+Richard
+Hummus Place
+restaurant
+1.4
+Kyunghyun
+Dojo
+restaurant
+1.0
+Davi
+Titanic
+movie
+4.4
+Jean-Claude
+Bucadi Beppo
+restaurant
+3.4
+Marsha
+Shape of Water
+movie
+1.0
+Jean-Claude
+Five Guys
+restaurant
+1.4
+Richard
+Vegan Kitchen
+restaurant
+4.9
+Jinyang
+Five Guys
+restaurant
+1.1
+Jinyang
+Dojo
+restaurant
+5.0
+Joanna
+White Oak Tavern
+restaurant
+2.8
+Kyunghyun
+Moonlight
+movie
+5.0
+Joanna
+White Oak Tavern
+restaurant
+3.6
+Jean-Claude
+Dojo
+restaurant
+4.4
+Ernest
+La Quinta
+hotel
+1.8
+Yevgeniy
+White Oak Tavern
+restaurant
+5.0
+Patrick
+La Quinta
+hotel
+1.9
+Ernest
+Vegan Kitchen
+restaurant
+3.2
+Jinyang
+Babbo
+restaurant
+2.4
+Richard
+La Quinta
+hotel
+2.6
+Davi
+Birdman
+movie
+5.0
+Jinyang
+Ramada
+hotel
+1.0
+Ernest
+Babbo
+restaurant
+1.5
+Joe
+Chipotle
+restaurant
+3.8
+Davi
+Hummus Place
+restaurant
+2.5
+Yevgeniy
+Babbo
+restaurant
+1.3
+Richard
+Vegan Kitchen
+restaurant
+5.0
+Kyunghyun
+Hilton
+hotel
+4.3
+Michael
+Holiday Inn
+hotel
+1.0
+Anasse
+Waffle House
+restaurant
+2.1
+Joe
+Jane's
+restaurant
+1.0
+Deena
+Shape of Water
+movie
+4.7
+Ernest
+Vegan Kitchen
+restaurant
+5.0
+Michael
+Holiday Inn
+hotel
+1.4
+Richard
+La Quinta
+hotel
+3.0
+Joe
+Quality Inn
+hotel
+5.0
+Jean-Claude
+English Patient
+movie
+1.1
+Joanna
+Braveheart
+movie
+4.8
+Marsha
+Quality Inn
+hotel
+3.9
+Yevgeniy
+Blue Hill
+restaurant
+3.9
+Patrick
+Jane's
+restaurant
+2.4
+Joe
+Babbo
+restaurant
+5.0
+Jean-Claude
+Hilton
+hotel
+2.7
+Anasse
+Blue Hill
+restaurant
+1.0
+Marsha
+Waffle House
+restaurant
+2.7
+Jinyang
+Waffle House
+restaurant
+3.4
+Jean-Claude
+Waffle House
+restaurant
+1.6
+Yevgeniy
+White Oak Tavern
+restaurant
+1.0
+Patrick
+Sheraton
+hotel
+1.0
+Marsha
+Best Western
+hotel
+2.0
+Joe
+Argo
+movie
+2.9
+Anasse
+Travelodge
+hotel
+5.0
+Yevgeniy
+Vegan Kitchen
+restaurant
+5.0
+Kyunghyun
+Shape of Water
+movie
+3.0
+Richard
+IHOP
+restaurant
+1.0
+Ernest
+IHOP
+restaurant
+1.1
+Yevgeniy
+Quality Inn
+hotel
+1.0
+Jean-Claude
+Birdman
+movie
+5.0
+Richard
+Vegan Kitchen
+restaurant
+3.1
+Davi
+Braveheart
+movie
+5.0
+Anasse
+Motel 6
+hotel
+2.2
+Patrick
+Hyatt
+hotel
+4.3
+Marsha
+Arturos
+restaurant
+3.5
+Yevgeniy
+The King's Speech
+movie
+5.0
+Anasse
+Ramada
+hotel
+1.0
+Patrick
+Quality Inn
+hotel
+3.6
+Joe
+Argo
+movie
+1.0
+Richard
+White Oak Tavern
+restaurant
+4.6
+Jinyang
+Birdman
+movie
+3.9
+Patrick
+Shape of Water
+movie
+1.0
+Deena
+Meatball Shop
+restaurant
+1.1
+Ernest
+Arturos
+restaurant
+3.2
+Kyunghyun
+English Patient
+movie
+1.5
+Jinyang
+Holiday Inn
+hotel
+1.0
+Marsha
+Babbo
+restaurant
+1.9
+Ernest
+Clarion
+hotel
+5.0
+Davi
+Blue Hill
+restaurant
+3.2
+Anasse
+English Patient
+movie
+3.3
+Joe
+Hyatt
+hotel
+4.1
+Ernest
+Babbo
+restaurant
+1.5
+Patrick
+Blue Hill
+restaurant
+1.0
+Patrick
+Moonlight
+movie
+5.0
+Ernest
+Quality Inn
+hotel
+1.1
+Joe
+Quality Inn
+hotel
+4.7
+Anasse
+Blue Hill
+restaurant
+2.8
+Anasse
+Spotlight
+movie
+5.0
+Marsha
+Marriott
+hotel
+1.4
+Patrick
+Chipotle
+restaurant
+2.9
+Joe
+Dojo
+restaurant
+2.0
+Deena
+Blue Hill
+restaurant
+5.0
+Marsha
+La Quinta
+hotel
+2.5
+Richard
+English Patient
+movie
+3.1
+Ernest
+Bucadi Beppo
+restaurant
+5.0
+Richard
+English Patient
+movie
+4.9
+Marsha
+Best Western
+hotel
+2.6
+Patrick
+Clarion
+hotel
+1.7
+Jean-Claude
+Blue Hill
+restaurant
+4.1
+Ernest
+Quality Inn
+hotel
+1.2
+Deena
+Birdman
+movie
+3.4
+Davi
+Vegan Kitchen
+restaurant
+1.0
+Joe
+Hyatt
+hotel
+3.7
+Jean-Claude
+Motel 6
+hotel
+4.7
+Davi
+Dojo
+restaurant
+2.9
+Ernest
+Spotlight
+movie
+1.0
+Davi
+Hilton
+hotel
+4.3
+Ernest
+Motel 6
+hotel
+5.0
+Ernest
+Babbo
+restaurant
+5.0
+Michael
+Bucadi Beppo
+restaurant
+5.0
+Jinyang
+Meatball Shop
+restaurant
+2.8
+Anasse
+Blue Hill
+restaurant
+1.1
+Richard
+Clarion
+hotel
+1.1
+Ernest
+Moonlight
+movie
+1.1
+Jinyang
+Dojo
+restaurant
+1.0
+Kyunghyun
+Marriott
+hotel
+5.0
+Ernest
+Quality Inn
+hotel
+3.2
+Ernest
+IHOP
+restaurant
+1.0
+Kyunghyun
+Babbo
+restaurant
+1.8
+Jean-Claude
+Waffle House
+restaurant
+5.0
+Ernest
+Meatball Shop
+restaurant
+5.0
+Kyunghyun
+Vegan Kitchen
+restaurant
+3.3
+Michael
+Shape of Water
+movie
+4.5
+Ernest
+Holiday Inn
+hotel
+1.3
+Ernest
+Moonlight
+movie
+1.0
+Michael
+Birdman
+movie
+5.0
+Yevgeniy
+English Patient
+movie
+1.0
+Joe
+Hummus Place
+restaurant
+1.5
+Jean-Claude
+IHOP
+restaurant
+1.2
+Joe
+La Quinta
+hotel
+5.0
+Michael
+Hilton
+hotel
+3.9
+Yevgeniy
+Clarion
+hotel
+1.9
+Marsha
+Hummus Place
+restaurant
+4.5
+Jean-Claude
+Dojo
+restaurant
+2.0
+Deena
+Hilton
+hotel
+4.6
+Richard
+Hyatt
+hotel
+1.3
+Ernest
+Shape of Water
+movie
+4.2
+Richard
+Birdman
+movie
+4.3
+Jean-Claude
+Dojo
+restaurant
+5.0
+Yevgeniy
+Arturos
+restaurant
+1.2
+Marsha
+Spotlight
+movie
+5.0
+Davi
+La Quinta
+hotel
+1.6
+Richard
+White Oak Tavern
+restaurant
+1.0
+Patrick
+Clarion
+hotel
+5.0
+Michael
+Jane's
+restaurant
+2.5
+Joanna
+The King's Speech
+movie
+4.9
+Joe
+English Patient
+movie
+1.0
+Deena
+Best Western
+hotel
+2.2
+Anasse
+Clarion
+hotel
+1.0
+Michael
+Hyatt
+hotel
+1.2
+Ernest
+Dojo
+restaurant
+4.1
+Ernest
+Travelodge
+hotel
+3.0
+Marsha
+English Patient
+movie
+1.8
+Kyunghyun
+Arturos
+restaurant
+2.4
+Kyunghyun
+Moonlight
+movie
+1.0
+Joanna
+Five Guys
+restaurant
+3.6
+Yevgeniy
+Argo
+movie
+4.2
+Davi
+Hampton Inn
+hotel
+3.0
+Anasse
+Sheraton
+hotel
+1.4
+Richard
+Jane's
+restaurant
+1.0
+Deena
+Waffle House
+restaurant
+2.5
+Joanna
+Titanic
+movie
+5.0
+Kyunghyun
+Moonlight
+movie
+5.0
+Marsha
+Vegan Kitchen
+restaurant
+4.7
+Michael
+The King's Speech
+movie
+3.3
+Marsha
+Babbo
+restaurant
+3.0
+Joanna
+Vegan Kitchen
+restaurant
+3.9
+Joanna
+Hummus Place
+restaurant
+4.5
+Deena
+IHOP
+restaurant
+1.8
+Davi
+Birdman
+movie
+1.0
+Kyunghyun
+Moonlight
+movie
+3.3
+Joe
+Argo
+movie
+5.0
+Ernest
+Meatball Shop
+restaurant
+5.0
+Kyunghyun
+Hummus Place
+restaurant
+1.0
+Davi
+English Patient
+movie
+3.2
+Yevgeniy
+Holiday Inn
+hotel
+3.4
+Jean-Claude
+La Quinta
+hotel
+4.4
+Kyunghyun
+Waffle House
+restaurant
+5.0
+Ernest
+Holiday Inn
+hotel
+1.0
+Joe
+IHOP
+restaurant
+1.4
+Kyunghyun
+Quality Inn
+hotel
+4.3
+Marsha
+The King's Speech
+movie
+2.6
+Joanna
+Hilton
+hotel
+1.0
+Jean-Claude
+Holiday Inn
+hotel
+1.8
+Davi
+Birdman
+movie
+5.0
+Anasse
+Moonlight
+movie
+2.3
+Michael
+Ramada
+hotel
+2.6
+Deena
+Babbo
+restaurant
+5.0
+Ernest
+Chipotle
+restaurant
+1.9
+Jean-Claude
+Titanic
+movie
+3.5
+Patrick
+Birdman
+movie
+3.3
+Deena
+Holiday Inn
+hotel
+4.0
+Ernest
+Marriott
+hotel
+1.6
+Richard
+Blue Hill
+restaurant
+4.0
+Jinyang
+Sheraton
+hotel
+2.0
+Joe
+Quality Inn
+hotel
+2.7
+Michael
+Holiday Inn
+hotel
+1.2
+Deena
+Clarion
+hotel
+4.6
+Yevgeniy
+Bucadi Beppo
+restaurant
+2.3
+Michael
+La Quinta
+hotel
+5.0
+Joe
+Hilton
+hotel
+4.8
+Yevgeniy
+White Oak Tavern
+restaurant
+2.9
+Deena
+Sheraton
+hotel
+1.0
+Michael
+Chipotle
+restaurant
+1.0
+Marsha
+Best Western
+hotel
+1.8
+Deena
+Blue Hill
+restaurant
+3.5
+Jinyang
+Hummus Place
+restaurant
+1.9
+Deena
+Chipotle
+restaurant
+1.7
+Marsha
+IHOP
+restaurant
+1.0
+Patrick
+Babbo
+restaurant
+1.0
+Michael
+Marriott
+hotel
+1.0
+Joe
+White Oak Tavern
+restaurant
+4.0
+Davi
+Marriott
+hotel
+2.8
+Michael
+Motel 6
+hotel
+1.9
+Davi
+Braveheart
+movie
+1.0
+Joanna
+Argo
+movie
+3.9
+Davi
+IHOP
+restaurant
+2.3
+Joanna
+Babbo
+restaurant
+2.6
+Michael
+Dojo
+restaurant
+4.6
+Joanna
+Hampton Inn
+hotel
+1.4
+Anasse
+Birdman
+movie
+2.0
+Patrick
+English Patient
+movie
+4.1
+Jean-Claude
+Birdman
+movie
+5.0
+Deena
+Vegan Kitchen
+restaurant
+1.0
+Ernest
+Marriott
+hotel
+1.6
+Patrick
+Chipotle
+restaurant
+1.5
+Joe
+Hampton Inn
+hotel
+2.4
+Richard
+Blue Hill
+restaurant
+1.8
+Joanna
+Clarion
+hotel
+5.0
+Davi
+La Quinta
+hotel
+3.5
+Joanna
+Moonlight
+movie
+3.3
+Kyunghyun
+Marriott
+hotel
+5.0
+Ernest
+Titanic
+movie
+3.4
+Michael
+Travelodge
+hotel
+3.1
+Joe
+Babbo
+restaurant
+3.2
+Michael
+Motel 6
+hotel
+2.8
+Joanna
+Ramada
+hotel
+5.0
+Patrick
+Chipotle
+restaurant
+1.0
+Jean-Claude
+Dojo
+restaurant
+5.0
+Ernest
+Marriott
+hotel
+1.0
+Joanna
+Chipotle
+restaurant
+3.0
+Anasse
+Hampton Inn
+hotel
+3.9
+Joanna
+Hummus Place
+restaurant
+1.7
+Joe
+Sheraton
+hotel
+4.9
+Ernest
+Arturos
+restaurant
+1.4
+Jean-Claude
+Shape of Water
+movie
+4.7
+Jean-Claude
+White Oak Tavern
+restaurant
+5.0
+Joe
+Travelodge
+hotel
+1.0
+Jinyang
+Vegan Kitchen
+restaurant
+4.6
+Kyunghyun
+Chipotle
+restaurant
+2.0
+Patrick
+Hampton Inn
+hotel
+5.0
+Ernest
+White Oak Tavern
+restaurant
+3.6
+Anasse
+Spotlight
+movie
+5.0
+Kyunghyun
+Titanic
+movie
+5.0
+Michael
+Best Western
+hotel
+4.3
+Anasse
+La Quinta
+hotel
+5.0
+Yevgeniy
+English Patient
+movie
+1.2
+Joe
+Waffle House
+restaurant
+5.0
+Kyunghyun
+Argo
+movie
+1.0
+Anasse
+Argo
+movie
+5.0
+Michael
+Arturos
+restaurant
+4.7
+Kyunghyun
+Travelodge
+hotel
+5.0
+Joe
+Titanic
+movie
+4.9
+Deena
+Quality Inn
+hotel
+2.7
+Patrick
+La Quinta
+hotel
+3.8
+Jean-Claude
+Titanic
+movie
+1.0
+Jinyang
+Spotlight
+movie
+3.7
+Marsha
+Dojo
+restaurant
+1.9
+Michael
+Blue Hill
+restaurant
+2.8
+Ernest
+Spotlight
+movie
+5.0
+Ernest
+English Patient
+movie
+4.7
+Ernest
+IHOP
+restaurant
+2.3
+Patrick
+Vegan Kitchen
+restaurant
+2.3
+Ernest
+White Oak Tavern
+restaurant
+1.0
+Ernest
+Hilton
+hotel
+3.6
+Joanna
+Hampton Inn
+hotel
+5.0
+Michael
+Sheraton
+hotel
+3.5
+Richard
+Waffle House
+restaurant
+3.5
+Kyunghyun
+Clarion
+hotel
+1.9
+Davi
+Arturos
+restaurant
+3.6
+Michael
+Birdman
+movie
+5.0
+Yevgeniy
+Chipotle
+restaurant
+1.0
+Marsha
+Hyatt
+hotel
+1.0
+Joe
+Best Western
+hotel
+4.7
+Anasse
+Five Guys
+restaurant
+4.7
+Anasse
+Five Guys
+restaurant
+1.0
+Anasse
+Motel 6
+hotel
+3.9
+Richard
+La Quinta
+hotel
+4.3
+Ernest
+Ramada
+hotel
+4.5
+Jinyang
+Quality Inn
+hotel
+4.5
+Anasse
+Holiday Inn
+hotel
+3.6
+Davi
+Argo
+movie
+2.6
+Yevgeniy
+Hampton Inn
+hotel
+1.9
+Ernest
+English Patient
+movie
+5.0
+Ernest
+Quality Inn
+hotel
+5.0
+Jean-Claude
+Ramada
+hotel
+2.4
+Jean-Claude
+Hampton Inn
+hotel
+2.4
+Ernest
+Five Guys
+restaurant
+2.0
+Jinyang
+English Patient
+movie
+1.7
+Kyunghyun
+Shape of Water
+movie
+2.5
+Yevgeniy
+Birdman
+movie
+1.8
+Kyunghyun
+Bucadi Beppo
+restaurant
+1.2
+Deena
+Argo
+movie
+1.0
+Jean-Claude
+The King's Speech
+movie
+2.8
+Joe
+The King's Speech
+movie
+4.8
+Marsha
+Clarion
+hotel
+4.6
+Patrick
+Ramada
+hotel
+4.0
+Richard
+Jane's
+restaurant
+2.9
+Anasse
+Sheraton
+hotel
+3.5
+Yevgeniy
+La Quinta
+hotel
+2.5
+Ernest
+Arturos
+restaurant
+4.0
+Marsha
+Hampton Inn
+hotel
+4.7
+Ernest
+Birdman
+movie
+4.3
+Deena
+Sheraton
+hotel
+5.0
+Richard
+Waffle House
+restaurant
+1.0
+Jean-Claude
+Hummus Place
+restaurant
+5.0
+Jean-Claude
+Hilton
+hotel
+1.0
+Ernest
+Motel 6
+hotel
+1.0
+Yevgeniy
+Dojo
+restaurant
+3.7
+Michael
+Marriott
+hotel
+5.0
+Kyunghyun
+Shape of Water
+movie
+2.4
+Marsha
+Braveheart
+movie
+4.2
+Joanna
+Moonlight
+movie
+1.0
+Marsha
+Bucadi Beppo
+restaurant
+1.8
+Jean-Claude
+Meatball Shop
+restaurant
+2.9
+Michael
+Bucadi Beppo
+restaurant
+3.1
+Anasse
+Birdman
+movie
+1.4
+Michael
+Bucadi Beppo
+restaurant
+1.0
+Kyunghyun
+Holiday Inn
+hotel
+3.0
+Yevgeniy
+Waffle House
+restaurant
+5.0
+Marsha
+IHOP
+restaurant
+1.0
+Davi
+La Quinta
+hotel
+2.5
+Marsha
+Babbo
+restaurant
+5.0
+Davi
+Jane's
+restaurant
+1.3
+Michael
+Bucadi Beppo
+restaurant
+2.1
+Yevgeniy
+Hummus Place
+restaurant
+3.7
+Davi
+Birdman
+movie
+3.0
+Ernest
+Holiday Inn
+hotel
+3.0
+Yevgeniy
+Braveheart
+movie
+3.2
+Deena
+Chipotle
+restaurant
+5.0
+Patrick
+Vegan Kitchen
+restaurant
+2.8
+Jean-Claude
+IHOP
+restaurant
+2.1
+Ernest
+Chipotle
+restaurant
+1.3
+Marsha
+Dojo
+restaurant
+1.6
+Ernest
+Bucadi Beppo
+restaurant
+2.8
+Michael
+Braveheart
+movie
+1.0
+Ernest
+Braveheart
+movie
+3.7
+Marsha
+Travelodge
+hotel
+2.6
+Davi
+Marriott
+hotel
+2.6
+Deena
+The King's Speech
+movie
+2.7
+Joanna
+Ramada
+hotel
+5.0
+Michael
+Braveheart
+movie
+2.5
+Jinyang
+Meatball Shop
+restaurant
+1.0
+Yevgeniy
+Meatball Shop
+restaurant
+1.0
+Davi
+Quality Inn
+hotel
+4.9
+Kyunghyun
+Hummus Place
+restaurant
+1.0
+Yevgeniy
+English Patient
+movie
+2.1
+Jinyang
+Marriott
+hotel
+1.7
+Joe
+Clarion
+hotel
+4.4
+Ernest
+Hummus Place
+restaurant
+1.0
+Anasse
+Hampton Inn
+hotel
+3.1
+Deena
+Clarion
+hotel
+2.9
+Davi
+Hyatt
+hotel
+1.8
+Joanna
+Five Guys
+restaurant
+1.0
+Yevgeniy
+Holiday Inn
+hotel
+1.0
+Anasse
+Waffle House
+restaurant
+5.0
+Michael
+La Quinta
+hotel
+1.6
+Joe
+Meatball Shop
+restaurant
+5.0
+Jean-Claude
+Hilton
+hotel
+4.2
+Joe
+Titanic
+movie
+1.8
+Yevgeniy
+Clarion
+hotel
+2.5
+Anasse
+Hampton Inn
+hotel
+4.3
+Marsha
+Hampton Inn
+hotel
+3.5
+Ernest
+Meatball Shop
+restaurant
+5.0
+Kyunghyun
+Marriott
+hotel
+1.4
+Deena
+Spotlight
+movie
+5.0
+Jinyang
+Chipotle
+restaurant
+1.0
+Kyunghyun
+Best Western
+hotel
+3.7
+Yevgeniy
+Moonlight
+movie
+1.6
+Jean-Claude
+Spotlight
+movie
+5.0
+Davi
+Waffle House
+restaurant
+5.0
+Michael
+Waffle House
+restaurant
+1.0
+Jean-Claude
+Titanic
+movie
+5.0
+Ernest
+Vegan Kitchen
+restaurant
+2.1
+Michael
+La Quinta
+hotel
+1.9
+Joanna
+Travelodge
+hotel
+5.0
+Ernest
+White Oak Tavern
+restaurant
+1.0
+Kyunghyun
+IHOP
+restaurant
+1.3
+Deena
+Arturos
+restaurant
+5.0
+Deena
+English Patient
+movie
+2.9
+Anasse
+Motel 6
+hotel
+3.9
+Kyunghyun
+Jane's
+restaurant
+3.3
+Anasse
+Hyatt
+hotel
+5.0
+Joe
+Spotlight
+movie
+3.8
+Joanna
+The King's Speech
+movie
+1.0
+Marsha
+Shape of Water
+movie
+5.0
+Jean-Claude
+Quality Inn
+hotel
+1.0
+Anasse
+Moonlight
+movie
+5.0
+Yevgeniy
+Travelodge
+hotel
+4.7
+Michael
+Babbo
+restaurant
+4.8
+Davi
+Hyatt
+hotel
+4.5
+Deena
+Sheraton
+hotel
+5.0
+Jean-Claude
+The King's Speech
+movie
+2.9
+Davi
+Jane's
+restaurant
+1.1
+Ernest
+Chipotle
+restaurant
+1.0
+Joe
+Ramada
+hotel
+4.6
+Deena
+IHOP
+restaurant
+3.9
+Yevgeniy
+White Oak Tavern
+restaurant
+1.2
+Yevgeniy
+Bucadi Beppo
+restaurant
+1.9
+Michael
+Bucadi Beppo
+restaurant
+5.0
+Ernest
+Dojo
+restaurant
+2.1
+Joanna
+Moonlight
+movie
+3.4
+Ernest
+Best Western
+hotel
+4.1
+Anasse
+Vegan Kitchen
+restaurant
+5.0
+Davi
+Blue Hill
+restaurant
+5.0
+Joe
+Arturos
+restaurant
+5.0
+Joanna
+Holiday Inn
+hotel
+1.8
+Davi
+Hampton Inn
+hotel
+4.1
+Jean-Claude
+Vegan Kitchen
+restaurant
+1.0
+Jean-Claude
+Bucadi Beppo
+restaurant
+4.3
+Ernest
+Ramada
+hotel
+4.6
+Ernest
+Argo
+movie
+2.3
+Patrick
+Chipotle
+restaurant
+1.9
+Joanna
+Hampton Inn
+hotel
+1.0
+Joe
+Hyatt
+hotel
+2.0
+Ernest
+Dojo
+restaurant
+2.9
+Richard
+Hampton Inn
+hotel
+1.0
+Joe
+IHOP
+restaurant
+3.6
+Ernest
+Motel 6
+hotel
+1.0
+Jinyang
+Quality Inn
+hotel
+1.0
+Ernest
+Hilton
+hotel
+1.2
+Richard
+Motel 6
+hotel
+1.0
+Ernest
+Vegan Kitchen
+restaurant
+1.0
+Joanna
+Waffle House
+restaurant
+1.0
+Ernest
+Argo
+movie
+4.1
+Michael
+Dojo
+restaurant
+3.0
+Joanna
+Braveheart
+movie
+2.5
+Kyunghyun
+Five Guys
+restaurant
+2.3
+Anasse
+Sheraton
+hotel
+5.0
+Jinyang
+Waffle House
+restaurant
+1.8
+Joanna
+Braveheart
+movie
+1.1
+Michael
+Travelodge
+hotel
+4.3
+Joe
+Titanic
+movie
+3.8
+Deena
+English Patient
+movie
+2.3
+Anasse
+La Quinta
+hotel
+2.1
+Marsha
+IHOP
+restaurant
+1.0
+Marsha
+Dojo
+restaurant
+1.0
+Davi
+Blue Hill
+restaurant
+3.9
+Ernest
+Dojo
+restaurant
+2.3
+Patrick
+Marriott
+hotel
+2.5
+Jean-Claude
+Quality Inn
+hotel
+5.0
+Joe
+Clarion
+hotel
+5.0
+Ernest
+Vegan Kitchen
+restaurant
+1.0
+Michael
+Titanic
+movie
+3.3
+Marsha
+Moonlight
+movie
+5.0
+Jean-Claude
+Quality Inn
+hotel
+1.0
+Marsha
+Blue Hill
+restaurant
+1.5
+Marsha
+La Quinta
+hotel
+5.0
+Anasse
+Blue Hill
+restaurant
+1.8
+Joanna
+Travelodge
+hotel
+1.2
+Richard
+Vegan Kitchen
+restaurant
+4.0
+Davi
+Hummus Place
+restaurant
+2.8
+Marsha
+Chipotle
+restaurant
+5.0
+Joe
+La Quinta
+hotel
+1.9
+Deena
+Best Western
+hotel
+4.4
+Patrick
+IHOP
+restaurant
+5.0
+Ernest
+Sheraton
+hotel
+3.0
+Joanna
+Dojo
+restaurant
+3.6
+Richard
+Braveheart
+movie
+5.0
+Joe
+Hummus Place
+restaurant
+5.0
+Richard
+Moonlight
+movie
+3.9
+Marsha
+Motel 6
+hotel
+3.4
+Michael
+Jane's
+restaurant
+5.0
+Jinyang
+Hyatt
+hotel
+5.0
+Davi
+Motel 6
+hotel
+1.0
+Michael
+The King's Speech
+movie
+4.5
+Deena
+Moonlight
+movie
+5.0
+Marsha
+Hummus Place
+restaurant
+1.2
+Marsha
+Marriott
+hotel
+3.1
+Michael
+Hampton Inn
+hotel
+1.0
+Ernest
+Birdman
+movie
+3.2
+Joanna
+Shape of Water
+movie
+2.0
+Deena
+Hummus Place
+restaurant
+2.2
+Patrick
+Waffle House
+restaurant
+4.5
+Patrick
+Arturos
+restaurant
+2.5
+Davi
+La Quinta
+hotel
+1.0
+Anasse
+Hyatt
+hotel
+2.3
+Marsha
+Motel 6
+hotel
+5.0
+Michael
+Best Western
+hotel
+5.0
+Jean-Claude
+Hyatt
+hotel
+3.3
+Yevgeniy
+Five Guys
+restaurant
+4.9
+Joe
+Waffle House
+restaurant
+5.0
+Joanna
+Arturos
+restaurant
+3.7
+Joanna
+Five Guys
+restaurant
+4.8
+Ernest
+Meatball Shop
+restaurant
+5.0
+Richard
+IHOP
+restaurant
+1.7
+Deena
+Shape of Water
+movie
+2.9
+Michael
+Hilton
+hotel
+5.0
+Patrick
+Moonlight
+movie
+4.3
+Joe
+Marriott
+hotel
+2.8
+Yevgeniy
+Sheraton
+hotel
+3.5
+Jean-Claude
+Best Western
+hotel
+5.0
+Yevgeniy
+Braveheart
+movie
+3.6
+Jinyang
+Quality Inn
+hotel
+4.3
+Joanna
+White Oak Tavern
+restaurant
+5.0
+Patrick
+Jane's
+restaurant
+3.1
+Joanna
+Hilton
+hotel
+4.5
+Ernest
+Meatball Shop
+restaurant
+1.0
+Joe
+Blue Hill
+restaurant
+1.0
+Yevgeniy
+Argo
+movie
+4.5
+Anasse
+Bucadi Beppo
+restaurant
+1.0
+Richard
+La Quinta
+hotel
+4.4
+Davi
+English Patient
+movie
+1.0
+Marsha
+Ramada
+hotel
+2.1
+Jean-Claude
+Spotlight
+movie
+2.6
+Yevgeniy
+Hilton
+hotel
+3.8
+Marsha
+Five Guys
+restaurant
+5.0
+Marsha
+Dojo
+restaurant
+1.0
+Marsha
+Titanic
+movie
+5.0
+Jinyang
+Hilton
+hotel
+2.2
+Ernest
+Dojo
+restaurant
+2.6
+Deena
+La Quinta
+hotel
+3.3
+Joe
+Argo
+movie
+5.0
+Joe
+Quality Inn
+hotel
+4.0
+Richard
+Argo
+movie
+3.6
+Michael
+Holiday Inn
+hotel
+4.5
+Joe
+Motel 6
+hotel
+1.6
+Yevgeniy
+Motel 6
+hotel
+5.0
+Patrick
+Bucadi Beppo
+restaurant
+1.9
+Yevgeniy
+Titanic
+movie
+3.0
+Ernest
+Meatball Shop
+restaurant
+1.4
+Anasse
+Shape of Water
+movie
+2.9
+Ernest
+Dojo
+restaurant
+3.9
+Jean-Claude
+Clarion
+hotel
+2.9
+Marsha
+Waffle House
+restaurant
+1.8
+Ernest
+Birdman
+movie
+1.0
+Davi
+Motel 6
+hotel
+1.9
+Deena
+Braveheart
+movie
+3.5
+Richard
+Best Western
+hotel
+2.0
+Joe
+La Quinta
+hotel
+4.4
+Joanna
+Titanic
+movie
+1.0
+Kyunghyun
+Quality Inn
+hotel
+1.3
+Davi
+Quality Inn
+hotel
+2.7
+Ernest
+Blue Hill
+restaurant
+1.0
+Deena
+Shape of Water
+movie
+4.1
+Joanna
+Hampton Inn
+hotel
+2.6
+Marsha
+Hyatt
+hotel
+1.5
+Marsha
+Hilton
+hotel
+1.1
+Jinyang
+Clarion
+hotel
+1.0
+Anasse
+Marriott
+hotel
+2.9
+Ernest
+Marriott
+hotel
+5.0
+Deena
+Marriott
+hotel
+1.0
+Richard
+Argo
+movie
+4.8
+Anasse
+Hummus Place
+restaurant
+2.9
+Ernest
+Shape of Water
+movie
+5.0
+Deena
+Argo
+movie
+5.0
+Yevgeniy
+Motel 6
+hotel
+1.0
+Richard
+Hampton Inn
+hotel
+1.3
+Kyunghyun
+Clarion
+hotel
+1.0
+Yevgeniy
+Shape of Water
+movie
+1.0
+Patrick
+Babbo
+restaurant
+2.3
+Yevgeniy
+The King's Speech
+movie
+1.0
+Patrick
+La Quinta
+hotel
+4.8
+Yevgeniy
+La Quinta
+hotel
+4.4
+Jean-Claude
+Clarion
+hotel
+5.0
+Yevgeniy
+Motel 6
+hotel
+2.5
+Patrick
+Chipotle
+restaurant
+5.0
+Patrick
+Birdman
+movie
+1.1
+Marsha
+Quality Inn
+hotel
+3.3
+Ernest
+Marriott
+hotel
+1.0
+Joanna
+Hilton
+hotel
+1.5
+Patrick
+Five Guys
+restaurant
+5.0
+Ernest
+Clarion
+hotel
+2.4
+Deena
+Chipotle
+restaurant
+2.5
+Jinyang
+Titanic
+movie
+1.0
+Richard
+Marriott
+hotel
+4.4
+Joe
+Babbo
+restaurant
+5.0
+Deena
+Bucadi Beppo
+restaurant
+4.3
+Jinyang
+Braveheart
+movie
+2.1
+Joe
+Babbo
+restaurant
+1.3
+Anasse
+English Patient
+movie
+4.5
+Joanna
+Bucadi Beppo
+restaurant
+5.0
+Patrick
+Braveheart
+movie
+1.0
+Marsha
+Waffle House
+restaurant
+1.0
+Kyunghyun
+Bucadi Beppo
+restaurant
+1.7
+Patrick
+Hyatt
+hotel
+4.4
+Joe
+Hampton Inn
+hotel
+2.9
+Jean-Claude
+Babbo
+restaurant
+3.6
+Richard
+Blue Hill
+restaurant
+1.1
+Joe
+Shape of Water
+movie
+3.2
+Kyunghyun
+English Patient
+movie
+4.6
+Richard
+Blue Hill
+restaurant
+1.1
+Kyunghyun
+Hummus Place
+restaurant
+4.0
+Ernest
+Ramada
+hotel
+4.5
+Yevgeniy
+Braveheart
+movie
+5.0
+Patrick
+Braveheart
+movie
+1.0
+Patrick
+Hilton
+hotel
+4.1
